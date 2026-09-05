@@ -2,7 +2,7 @@
 
 # Hi there, I'm Mohsin Ali Aghariya 👋 
 
-### 🚀 Full Stack Developer & AI / ML Engineer
+### 🚀 Full Stack Engineer
 
 Bangalore, Karnataka, India 📍
 
