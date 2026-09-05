@@ -78,13 +78,6 @@
 
 ---
 
-### 📜 Certifications
-
-- 🏅 **What is Data Science?** — *IBM*
-- 🏅 **Python Foundation Certification** — *Infosys*
-
----
-
 <div align="center">
 
 ### 📫 Let's Connect!
