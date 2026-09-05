@@ -1,7 +1,6 @@
 <div align="center">
 
-# ⚡ MOHSIN ALI AGHARIYA ⚡
-### 🤖 `CYBERNETIC FULL STACK ENGINEER` 🤖
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,00F0FF,50,FF007F,100,7928CA&height=220&section=header&text=MOHSIN%20ALI%20AGHARIYA&fontSize=40&fontAlign=50&fontAlignY=38&desc=%E2%9A%A1%20CYBERNETIC%20FULL%20STACK%20ENGINEER%20%E2%9A%A1&descAlign=50&descAlignY=62&animation=twinkling)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&height=50&lines=%3E_FULL_STACK_ENGINEER;%3E_REACT_%7C_NEXT.JS_%7C_NODE.JS_%7C_PYTHON;%3E_AI_%26_AUTOMATION_SYSTEMS;%3E_BUILDING_HIGH_TECH_WEB_APPS)](https://git.io/typing-svg)
 
@@ -100,6 +99,8 @@
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-00F0FF?style=for-the-badge&logo=linkedin&logoColor=000000)](https://linkedin.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-FF007F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohsinali45213)
 [![Email](https://img.shields.io/badge/EMAIL-39FF14?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:mohsinali45213@gmail.com)
+
+![Footer Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,00F0FF,50,FF007F,100,7928CA&height=120&section=footer)
 
 ```
 [SYSTEM END] // Mohsin Ali Aghariya
