@@ -67,14 +67,14 @@
 
 ### 🌟 Featured Projects
 
-| Project | Description | Tech Stack | Links |
-| :--- | :--- | :--- | :---: |
-| 🛒 **Kirana Store IMS & POS** | Smart inventory management & point-of-sale system built for local retail shops. | `React` `Node.js` `Express` `MongoDB` | [🌐 Live Demo](https://kiranastoreims.vercel.app/) • [💻 GitHub](https://github.com/mohsinali45213/Kirana-Store) |
-| 🌿 **MamaEarth E-Commerce** | E-Commerce store clone featuring shopping cart, product catalog, and user auth. | `React` `Tailwind` `Node.js` `MongoDB` | [🌐 Live Demo](https://mama-earth-1jml.vercel.app) • [💻 GitHub](https://github.com/mohsinali45213/mamaEarth) |
-| 🛋️ **Decorium Luxury** | Premium luxury furniture & home decor e-commerce platform with sleek UI. | `Next.js` `Tailwind` `Redux` | [🌐 Live Demo](https://decorium.vercel.app) • [💻 GitHub](https://github.com/mohsinali45213/Decorium) |
-| 🍽️ **AR-Menu 3D** | Interactive 3D augmented reality menu experience for modern restaurants. | `React` `Three.js` `WebGL` | [🌐 Live Demo](https://criza.netlify.app) • [💻 GitHub](https://github.com/mohsinali45213/AR-Menu) |
-| 📄 **Intelligent PDF Q&A** | RAG-powered document assistant for querying large PDF documents using LLMs. | `Python` `LangChain` `Chroma` | [💻 GitHub](https://github.com/mohsinali45213) |
-| 💬 **Chat with MySQL** | Natural language interface to convert plain text into SQL queries and fetch database results. | `Python` `LangChain` `FastAPI` `MySQL` | [💻 GitHub](https://github.com/mohsinali45213) |
+| Project | Links |
+| :--- | :---: |
+| 🛒 **Kirana Store IMS & POS** | [🌐 Live Demo](https://kiranastoreims.vercel.app/) • [💻 GitHub](https://github.com/mohsinali45213/Kirana-Store) |
+| 🌿 **MamaEarth E-Commerce** | [🌐 Live Demo](https://mama-earth-1jml.vercel.app) • [💻 GitHub](https://github.com/mohsinali45213/mamaEarth) |
+| 🛋️ **Decorium Luxury** | [🌐 Live Demo](https://decorium.vercel.app) • [💻 GitHub](https://github.com/mohsinali45213/Decorium) |
+| 🍽️ **AR-Menu 3D** | [🌐 Live Demo](https://criza.netlify.app) • [💻 GitHub](https://github.com/mohsinali45213/AR-Menu) |
+| 📄 **Intelligent PDF Q&A** | [💻 GitHub](https://github.com/mohsinali45213) |
+| 💬 **Chat with MySQL** | [💻 GitHub](https://github.com/mohsinali45213) |
 
 ---
 
