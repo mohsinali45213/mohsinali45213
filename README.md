@@ -14,28 +14,6 @@
 
 ---
 
-### 👾 [![Bio Header](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=00F0FF&width=350&height=35&lines=%2F%2F_SYSTEM_BIO)](https://git.io/typing-svg)
-
-```json
-{
-  "developer": "Mohsin Ali Aghariya",
-  "role": "Software Engineer Intern @ Simplotel",
-  "location": "Bangalore, India",
-  "education": {
-    "MCA": "REVA University (9.24 CGPA)",
-    "BCA": "HNGU (7.83 CGPA)"
-  },
-  "core_focus": ["Full Stack Engineering", "Microservices", "RAG & AI Pipelines", "Playwright Automation"]
-}
-```
-
-- 💼 **Software Engineer Intern** @ **Simplotel** *(Feb 2026 – Aug 2026)* — Engineering high-scale booking systems & Playwright automated workflows.
-- 🎓 **Master of Computer Applications (MCA)** — REVA University *(2024 – 2026)* | **9.24 CGPA** 🏆
-- 🎓 **Bachelor of Computer Applications (BCA)** — HNGU *(2021 – 2024)* | **7.83 CGPA**
-- ⚡ **Core Directives**: Building cutting-edge full-stack apps, autonomous AI agents, and resilient backend pipelines.
-
----
-
 ### 🛠️ [![Tech Header](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=FF007F&width=350&height=35&lines=%2F%2F_TECH_MATRIX)](https://git.io/typing-svg)
 
 #### 💻 `LANGUAGES`
